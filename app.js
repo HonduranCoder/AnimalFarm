@@ -46,6 +46,8 @@ catEl.addEventListener('click', () => {
 
 
 /*
+Started to attempt the keydown event listener 
+
 document.addEventListener('keydown', logKey);
 
 function logKey(h) {
